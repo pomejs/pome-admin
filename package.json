@@ -1,0 +1,20 @@
+{
+    "name": "pome-admin",
+    "version": "0.4.6",
+    "private": false,
+    "dependencies": {
+        "pome-scheduler": "^0.3.8",
+        "pome-monitor": "^0.3.7",
+        "socket.io": "^1.7.1",
+        "socket.io-client": "^1.7.1",
+        "heapdump": "^0.3.7"
+    },
+    "peerDependencies" : {
+        "pome-logger" : "^0.1.7"
+    },
+    "devDependencies": {
+        "should": "^11.1.1",
+        "mocha": "^3.2.0",
+        "flow": "^0.2.3"
+    }
+}
