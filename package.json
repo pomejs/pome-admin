@@ -1,9 +1,9 @@
 {
     "name": "pome-admin",
-    "version": "0.4.7",
+    "version": "0.4.8",
     "private": false,
     "dependencies": {
-        "pome-scheduler": "^0.3.8",
+        "pome-scheduler": ">=0.3.8",
         "pome-monitor": "^0.3.7",
         "socket.io": "^1.7.1",
         "socket.io-client": "^1.7.1",
