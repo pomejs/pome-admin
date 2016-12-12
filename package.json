@@ -1,6 +1,6 @@
 {
     "name": "pome-admin",
-    "version": "0.4.6",
+    "version": "0.4.7",
     "private": false,
     "dependencies": {
         "pome-scheduler": "^0.3.8",
